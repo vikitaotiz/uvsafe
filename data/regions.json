@@ -1,0 +1,201 @@
+{
+    "regions": [
+      {
+        "name": "Region 1",
+        "hospitals": ["Hospital A", "Hospital B"]
+      },
+      {
+        "name": "Region 2",
+        "hospitals": ["Hospital X"]
+      },
+      {
+        "name": "Region 3",
+        "hospitals": ["Hospital Y", "Hospital Z"]
+      },
+      {
+        "name": "Region 4",
+        "hospitals": ["City Medical Center"]
+      },
+      {
+        "name": "Region 5",
+        "hospitals": ["General Hospital", "Community Clinic"]
+      },
+      {
+        "name": "Region 6",
+        "hospitals": ["County Hospital"]
+      },
+      {
+        "name": "Region 7",
+        "hospitals": ["Healthcare Center A", "Healthcare Center B"]
+      },
+      {
+        "name": "Region 8",
+        "hospitals": ["Central Hospital"]
+      },
+      {
+        "name": "Region 9",
+        "hospitals": ["Metropolitan Medical Center", "Rural Health Clinic"]
+      },
+      {
+        "name": "Region 10",
+        "hospitals": ["Regional Hospital"]
+      },
+      {
+        "name": "Region 11",
+        "hospitals": ["City General Hospital"]
+      },
+      {
+        "name": "Region 12",
+        "hospitals": ["Community Medical Center", "Family Hospital"]
+      },
+      {
+        "name": "Region 13",
+        "hospitals": ["District Health Clinic"]
+      },
+      {
+        "name": "Region 14",
+        "hospitals": ["University Hospital"]
+      },
+      {
+        "name": "Region 15",
+        "hospitals": ["Pediatric Hospital", "Geriatric Care Center"]
+      },
+      {
+        "name": "Region 16",
+        "hospitals": ["Civic Hospital"]
+      },
+      {
+        "name": "Region 17",
+        "hospitals": ["Municipal Health Center A", "Municipal Health Center B"]
+      },
+      {
+        "name": "Region 18",
+        "hospitals": ["City Healthcare Facility"]
+      },
+      {
+        "name": "Region 19",
+        "hospitals": ["Regional Medical Center", "Community Health Clinic"]
+      },
+      {
+        "name": "Region 20",
+        "hospitals": ["County General Hospital"]
+      },
+      {
+        "name": "Region 21",
+        "hospitals": ["Metropolitan Hospital"]
+      },
+      {
+        "name": "Region 22",
+        "hospitals": ["Central Medical Center"]
+      },
+      {
+        "name": "Region 23",
+        "hospitals": ["City Hospital A", "City Hospital B"]
+      },
+      {
+        "name": "Region 24",
+        "hospitals": ["Healthcare Clinic"]
+      },
+      {
+        "name": "Region 25",
+        "hospitals": ["Regional General Hospital"]
+      },
+      {
+        "name": "Region 26",
+        "hospitals": ["Community Medical Center", "Family Health Center"]
+      },
+      {
+        "name": "Region 27",
+        "hospitals": ["District Hospital"]
+      },
+      {
+        "name": "Region 28",
+        "hospitals": ["Teaching Hospital"]
+      },
+      {
+        "name": "Region 29",
+        "hospitals": ["Children's Hospital", "Elder Care Center"]
+      },
+      {
+        "name": "Region 30",
+        "hospitals": ["City Civic Hospital"]
+      },
+      {
+        "name": "Region 31",
+        "hospitals": [
+          "Municipal Healthcare Center A",
+          "Municipal Healthcare Center B"
+        ]
+      },
+      {
+        "name": "Region 32",
+        "hospitals": ["City Medical Facility"]
+      },
+      {
+        "name": "Region 33",
+        "hospitals": ["Regional Medical Center", "Community Healthcare Clinic"]
+      },
+      {
+        "name": "Region 34",
+        "hospitals": ["County General Medical Center"]
+      },
+      {
+        "name": "Region 35",
+        "hospitals": ["Metropolitan Healthcare Center"]
+      },
+      {
+        "name": "Region 36",
+        "hospitals": ["Central Healthcare Facility"]
+      },
+      {
+        "name": "Region 37",
+        "hospitals": ["City Healthcare Center A", "City Healthcare Center B"]
+      },
+      {
+        "name": "Region 38",
+        "hospitals": ["Healthcare Center"]
+      },
+      {
+        "name": "Region 39",
+        "hospitals": ["Regional Healthcare Center"]
+      },
+      {
+        "name": "Region 40",
+        "hospitals": ["Community General Hospital", "Family Healthcare Clinic"]
+      },
+      {
+        "name": "Region 41",
+        "hospitals": ["District Medical Center"]
+      },
+      {
+        "name": "Region 42",
+        "hospitals": ["University Medical Center"]
+      },
+      {
+        "name": "Region 43",
+        "hospitals": [
+          "Pediatric Healthcare Center",
+          "Geriatric Healthcare Facility"
+        ]
+      },
+      {
+        "name": "Region 44",
+        "hospitals": ["Civic Healthcare Clinic"]
+      },
+      {
+        "name": "Region 45",
+        "hospitals": [
+          "Municipal Health Facility A",
+          "Municipal Health Facility B"
+        ]
+      },
+      {
+        "name": "Region 46",
+        "hospitals": ["City Healthcare Facility"]
+      },
+      {
+        "name": "Region 47",
+        "hospitals": ["Regional Medical Facility", "Community Healthcare Center"]
+      }
+    ]
+  }
